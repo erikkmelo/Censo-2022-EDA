@@ -1,5 +1,5 @@
 # ANÁLISE EXPLORATÓRIA DOS DADOS DO CENSO 2022 (IBGE) RESULTADO DO UNIVERSO POR SETORES
-Repositório para fazer a filtragem das tabelas dos setores do IBGE por município.
+Repositório para estudar os dados do IBGE através de Ciência de Dados.
 
 Esse repositório tem 3 objetivos principais:
 1. Extrair os dados censitários em novas tabelas para o município selecionado. (CONCLUÍDO) 
