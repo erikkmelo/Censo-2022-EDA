@@ -1,4 +1,4 @@
-# Censo-2022-EDA
+# ANÁLISE EXPLORATÓRIA DOS DADOS DO CENSO 2022 (IBGE) RESULTADO DO UNIVERSO POR SETORES
 Repositório para fazer a filtragem das tabelas dos setores do IBGE por município.
 
 Esse repositório tem 3 objetivos principais:
