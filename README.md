@@ -3,19 +3,19 @@ Repositório para estudar os dados do IBGE através de Ciência de Dados.
 Resultados disponíveis pelo IBGE:
 https://www.ibge.gov.br/estatisticas/sociais/trabalho/22827-censo-demografico-2022.html?edicao=41852&t=resultados
 
-Agregados_por_setores_alfabetizacao_BR.zip
-Agregados_por_setores_basico_BR.zip
-Agregados_por_setores_caracteristicas_domicilio1_BR.zip
-Agregados_por_setores_caracteristicas_domicilio2_BR.zip
-Agregados_por_setores_caracteristicas_domicilio3_BR.zip
-Agregados_por_setores_cor_ou_raca_BR.zip
-Agregados_por_setores_demografia_BR.zip
-Agregados_por_setores_domicilios_indigenas_BR.zip
-Agregados_por_setores_domicilios_quilombolas_BR.zip
-Agregados_por_setores_obitos_BR.zip
-Agregados_por_setores_parentesco_BR.zip
-Agregados_por_setores_pessoas_indigenas_BR.zip
-Agregados_por_setores_pessoas_quilombolas_BR.zip
+Agregados_por_setores_alfabetizacao_BR.zip  
+Agregados_por_setores_basico_BR.zip  
+Agregados_por_setores_caracteristicas_domicilio1_BR.zip  
+Agregados_por_setores_caracteristicas_domicilio2_BR.zip  
+Agregados_por_setores_caracteristicas_domicilio3_BR.zip  
+Agregados_por_setores_cor_ou_raca_BR.zip  
+Agregados_por_setores_demografia_BR.zip  
+Agregados_por_setores_domicilios_indigenas_BR.zip  
+Agregados_por_setores_domicilios_quilombolas_BR.zip  
+Agregados_por_setores_obitos_BR.zip  
+Agregados_por_setores_parentesco_BR.zip  
+Agregados_por_setores_pessoas_indigenas_BR.zip  
+Agregados_por_setores_pessoas_quilombolas_BR.zip  
 
 
 
