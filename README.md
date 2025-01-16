@@ -19,7 +19,7 @@ Agregados_por_setores_pessoas_quilombolas_BR.zip
 
 
 
-##Esse repositório tem 3 objetivos principais:
+## Esse repositório tem 3 objetivos principais:
 1. Extrair os dados censitários em novas tabelas para o município selecionado. (CONCLUÍDO) 
 2. Aplicar EDA nos dados para o município e achar possíveis clusters. (EM ANDAMENTO)
 3. Agregar essas informações na camada de setores (gpkh), sendo uma camada para cada tema.
